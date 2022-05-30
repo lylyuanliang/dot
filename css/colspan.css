@@ -1,0 +1,8 @@
+body {
+    width: calc(100vw);
+    height: calc(100vh);
+}
+textarea[name="lonLatInfo"]{
+    width: 95%;
+    height: 75%;
+}

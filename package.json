@@ -1,0 +1,17 @@
+{
+  "name": "dot",
+  "version": "1.0.0",
+  "dependencies": {
+    "electron": "^2.0.1",
+    "electron-packager": "^12.1.0"
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron .",
+    "package": "electron-packager . --overwrite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
